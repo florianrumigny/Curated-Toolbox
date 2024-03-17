@@ -1,12 +1,12 @@
 <img src="./Assets/logo-old-books.png" alt="drawing" style="width:200px;"/>
 
-# Curated List Of Ressources
+# Curated ToolBox
 
-A curated list of awesome tools and ressources for web development.
+A curated list of awesome tools and ressources I like or want to try.
 
 ## Index
 
-- [Curated List Of Ressources](#curated-list-of-ressources)
+- [Curated ToolBox](#curated-toolbox)
   - [Index](#index)
   - [Learning Ressources](#learning-ressources)
     - [People to follow](#people-to-follow)
