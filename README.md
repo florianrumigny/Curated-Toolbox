@@ -28,6 +28,7 @@ A curated list of awesome tools and ressources I like or want to try.
       - [Animation](#animation)
       - [UI](#ui)
       - [State Manager](#state-manager)
+      - [Tools React](#tools-react)
     - [Terminal](#terminal)
     - [Mail](#mail)
     - [Back-end](#back-end)
@@ -120,6 +121,10 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Zustand](https://github.com/pmndrs/zustand) : minimalist  
 [Redux](https://redux.js.org/) : more ressources
+
+#### Tools React
+
+[AI ChatBot](https://nlux.dev/) : AI ChatBot with react JS components
 
 ### Terminal
 
