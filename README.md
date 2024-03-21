@@ -24,6 +24,7 @@ A curated list of awesome tools and ressources I like or want to try.
     - [CSS](#css)
       - [Css tools](#css-tools)
       - [TailwindCSS](#tailwindcss)
+    - [Typescript Tools](#typescript-tools)
     - [React](#react)
       - [Animation](#animation)
       - [UI](#ui)
@@ -35,6 +36,7 @@ A curated list of awesome tools and ressources I like or want to try.
       - [Express replacement](#express-replacement)
     - [Deploy](#deploy)
     - [Tool to test](#tool-to-test)
+    - [API](#api)
 
 ## Learning Ressources
 
@@ -43,6 +45,7 @@ A curated list of awesome tools and ressources I like or want to try.
 [Josh Comeau](https://www.joshwcomeau.com/) : Tips on Html, Css and React  
 [Maggie Appleton](https://maggieappleton.com/) : Visual essays on Programming  
 [Emil Kowalski](https://animations.dev/) : Learn to craft great animation pop up
+[Cassidy Williams](https://blog.cassidoo.co/) : Good blog on web dev
 
 ### Javascript
 
@@ -75,7 +78,8 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Undesign](https://undesign.learn.uno/) : Free design tools and ressources  
 [HTML Templates](https://htmlrev.com/) : Free templates for landing pages, portfolios, ecommerce, etc.  
-[CodeToGo](https://codetogo.io/) : collection of Data Snippets in React / Javascript
+[CodeToGo](https://codetogo.io/) : collection of Data Snippets in React / Javascript  
+[30 Seconds of Code](https://www.30secondsofcode.org/) : collection of code Snippets for React / JS / Css
 
 ### Design
 
@@ -101,6 +105,10 @@ A curated list of awesome tools and ressources I like or want to try.
 #### TailwindCSS
 
 [Tailwind Reset](https://gist.github.com/kitze/540123b33f186a50a028d41493d231ad) : Tips on reset tailwind classes
+
+### Typescript Tools
+
+[Convert Json](https://quicktype.io/) : To convert Json into Interface
 
 ### React
 
@@ -152,3 +160,7 @@ A curated list of awesome tools and ressources I like or want to try.
 ### Tool to test
 
 [LocalSend](https://localsend.org/#/) : like Airdrop ?
+
+### API
+
+[FakeStoreData](https://fakestoreapi.com/) : Fake data for e-commerce or shopping website
