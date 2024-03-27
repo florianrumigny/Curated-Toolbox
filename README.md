@@ -25,6 +25,7 @@ A curated list of awesome tools and ressources I like or want to try.
       - [Css tools](#css-tools)
       - [TailwindCSS](#tailwindcss)
     - [Typescript Tools](#typescript-tools)
+      - [Config](#config)
     - [React](#react)
       - [Animation](#animation)
       - [UI](#ui)
@@ -79,7 +80,8 @@ A curated list of awesome tools and ressources I like or want to try.
 [Undesign](https://undesign.learn.uno/) : Free design tools and ressources  
 [HTML Templates](https://htmlrev.com/) : Free templates for landing pages, portfolios, ecommerce, etc.  
 [CodeToGo](https://codetogo.io/) : collection of Data Snippets in React / Javascript  
-[30 Seconds of Code](https://www.30secondsofcode.org/) : collection of code Snippets for React / JS / Css
+[30 Seconds of Code](https://www.30secondsofcode.org/) : collection of code Snippets for React / JS / Css  
+[BentoGrids](https://bentogrids.com/) : Collection of grids for inspiration
 
 ### Design
 
@@ -110,12 +112,16 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Convert Json](https://quicktype.io/) : To convert Json into Interface
 
+#### Config
+
+[Airbnb config eslint](https://www.npmjs.com/package/eslint-config-airbnb-typescript) : Config airbnb with typescript support
+
 ### React
 
 #### Animation
 
 [Framer Motion](https://www.framer.com/motion/)  
-[Gasp](https://gsap.com/)
+[Gasp](https://gsap.com/)  
 [React Spring](https://github.com/pmndrs/react-spring) : Spring physics first animation library  
 [React Spring Visualizer](https://react-spring-visualizer.com/) : React Spring Visualizer
 
