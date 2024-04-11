@@ -106,7 +106,8 @@ A curated list of awesome tools and ressources I like or want to try.
 
 #### TailwindCSS
 
-[Tailwind Reset](https://gist.github.com/kitze/540123b33f186a50a028d41493d231ad) : Tips on reset tailwind classes
+[Tailwind Reset](https://gist.github.com/kitze/540123b33f186a50a028d41493d231ad) : Gist on reset tailwind classes
+[Tailwind BreakPoints Composant](https://gist.github.com/Sh4yy/0300299ae60af4910bcb341703946330) : Gist to see breakpoints from Tailwind on screen
 
 ### Typescript Tools
 
