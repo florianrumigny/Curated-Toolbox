@@ -45,7 +45,7 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Josh Comeau](https://www.joshwcomeau.com/) : Tips on Html, Css and React  
 [Maggie Appleton](https://maggieappleton.com/) : Visual essays on Programming  
-[Emil Kowalski](https://animations.dev/) : Learn to craft great animation pop up
+[Emil Kowalski](https://animations.dev/) : Learn to craft great animation pop up  
 [Cassidy Williams](https://blog.cassidoo.co/) : Good blog on web dev
 
 ### Javascript
@@ -106,7 +106,7 @@ A curated list of awesome tools and ressources I like or want to try.
 
 #### TailwindCSS
 
-[Tailwind Reset](https://gist.github.com/kitze/540123b33f186a50a028d41493d231ad) : Gist on reset tailwind classes
+[Tailwind Reset](https://gist.github.com/kitze/540123b33f186a50a028d41493d231ad) : Gist on reset tailwind classes  
 [Tailwind BreakPoints Composant](https://gist.github.com/Sh4yy/0300299ae60af4910bcb341703946330) : Gist to see breakpoints from Tailwind on screen
 
 ### Typescript Tools
@@ -121,10 +121,13 @@ A curated list of awesome tools and ressources I like or want to try.
 
 #### Animation
 
+[Josh Snippets](https://www.joshwcomeau.com/snippets/) : Good snippet react / js from Josh Comeau  
+[Toast Use](https://github.com/streamich/react-use) : Best library of hooks for React  
 [Framer Motion](https://www.framer.com/motion/)  
 [Gasp](https://gsap.com/)  
 [React Spring](https://github.com/pmndrs/react-spring) : Spring physics first animation library  
-[React Spring Visualizer](https://react-spring-visualizer.com/) : React Spring Visualizer
+[React Spring Visualizer](https://react-spring-visualizer.com/) : React Spring Visualizer  
+[Sonner](https://sonner.emilkowal.ski/): A great toast component from Emilkowal
 
 #### UI
 
