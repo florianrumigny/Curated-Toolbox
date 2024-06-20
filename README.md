@@ -16,6 +16,7 @@ A curated list of awesome tools and ressources I like or want to try.
     - [Git](#git)
     - [Mathematics](#mathematics)
     - [Zustand](#zustand)
+    - [Animations](#animations)
   - [Tools](#tools)
     - [Curated tools](#curated-tools)
     - [Design](#design)
@@ -73,6 +74,10 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Grafikart](https://grafikart.fr/tutoriels/zustand-react-2176#content) : Learn basics of Zustand (FR)
 
+### Animations
+
+[Easings](https://easings.net/en#) : Great ressources to learn easings in animation
+
 ## Tools
 
 ### Curated tools
@@ -87,7 +92,10 @@ A curated list of awesome tools and ressources I like or want to try.
 
 [Design ressources](https://www.digitaldesignlibrary.io/) : Curated list of design ressources  
 [Dribble](https://dribbble.com/) : Great ressources to find inspiration  
-[Awaaards](https://www.awwwards.com/) : Awesome design and animation
+[Awaaards](https://www.awwwards.com/) : Awesome design and animation  
+[Lummi](https://www.lummi.ai/) : AI stock photos  
+[Layers](https://layers.to/) : Great collections of design  
+[Godly Website](https://godly.website/) : A awesome collection of awesome websites
 
 ### Setup Project
 
@@ -127,13 +135,15 @@ A curated list of awesome tools and ressources I like or want to try.
 [Gasp](https://gsap.com/)  
 [React Spring](https://github.com/pmndrs/react-spring) : Spring physics first animation library  
 [React Spring Visualizer](https://react-spring-visualizer.com/) : React Spring Visualizer  
-[Sonner](https://sonner.emilkowal.ski/): A great toast component from Emilkowal
+[Sonner](https://sonner.emilkowal.ski/): A great toast component from Emilkowal  
+[Index](https://ui.lndev.me/) : Some components made by LN (Twitter)
 
 #### UI
 
 [DaisyUI](https://daisyui.com/) : Component library for Tailwind  
 [ReactSuite](https://rsuitejs.com/) : React Component  
-[Luna](https://github.com/guilhermerodz/luna) : Shiny visual effects on React Component
+[Luna](https://github.com/guilhermerodz/luna) : Shiny visual effects on React Component  
+[LDRS](https://uiball.com/ldrs/) : A tiny library with cool loaders and spinners
 
 #### State Manager
 
